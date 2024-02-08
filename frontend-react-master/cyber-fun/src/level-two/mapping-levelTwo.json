@@ -1,0 +1,63 @@
+[
+  {
+    "id": "469f9800-c45a-483f-b13e-bd24f3fb79f4",
+    "title": "sensitivePictureFrame",
+    "shape": "poly",
+    "name": "1",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [943, 227, 1012, 200, 1012, 494, 943, 470],
+    "polygon": [
+      [943, 227],
+      [1012, 200],
+      [1012, 494],
+      [943, 470]
+    ]
+  },
+  {
+    "id": "1db62daa-22a4-4b02-b5c0-fffdcf77c66c",
+    "title": "usb",
+    "shape": "poly",
+    "name": "2",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [660, 742, 625, 731, 625, 720, 637, 716, 671, 736],
+    "polygon": [
+        [660, 742],
+        [625, 731],
+        [625, 720],
+        [637, 716],
+        [671, 736]
+      ]
+  },
+  {
+    "id": "667d73b1-4583-4080-ab6b-5759f25440bb",
+    "title": "unknownPerson",
+    "shape": "poly",
+    "name": "3",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [643, 346, 646, 338, 656, 341, 656, 353],
+    "polygon": [
+      [643, 346],
+      [646, 338],
+      [656, 341],
+      [656, 353]
+    ]
+  },
+  {
+    "id": "a87203cb-3916-48ea-856f-2bacab8b7eda",
+    "title": "laptopCleaning",
+    "shape": "poly",
+    "name": "4",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords":  [448, 406, 426, 354, 468, 350, 488, 403],
+    "polygon": [
+      [448, 406],
+      [426, 354],
+      [468, 350],
+      [488, 403]
+    ]
+  }
+]
